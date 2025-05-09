@@ -2,7 +2,7 @@ from typing import Dict, List, Tuple
 
 import Levenshtein
 
-from taekwondo.glossary import TERMOS_ENUMS
+from taekwondo_glossario.glossary import TERMOS_ENUMS
 
 
 class Tecnica:

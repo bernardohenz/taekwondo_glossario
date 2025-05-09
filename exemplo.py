@@ -1,4 +1,4 @@
-from taekwondo.glossary import Acoes, Bases, Direcoes, PartesCorpo
+from taekwondo_glossario.glossary.termos import Acoes, Bases, Direcoes, PartesCorpo
 
 
 def main():

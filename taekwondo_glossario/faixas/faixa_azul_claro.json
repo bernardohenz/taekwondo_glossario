@@ -1,0 +1,26 @@
+{
+    "cor": "Azul Claro",
+    "nome": "4 GUB",
+    "tecnicas_braco": [
+        "Apgubi Batangson Ap Chigi",
+        "Apgubi Jebipum Batangson Ap Chigi",
+        "Apgubi (Bakkat Palmok) Biteureo Naeryeo Makgi",
+        "Apgubi (Bakkat Idul) Biteureo Bakkat Makgi",
+        "Apgubi Sonnal Biteureo Bakkat Makgi",
+        "Apgubi An Palmok Biteureo Bakkat Makgi",
+        "Apgubi Sonnal Deung Biteureo Bakkat Makgi",
+        "Dwitgubi Batanson An Makgi",
+        "Dwitgubi Batanson Nulleo Makgi"
+    ],
+    "tecnicas_chute": [
+        "Geodeup Ap Chagi",
+        "Geodeup Dollyeo Chagi",
+        "Geodeup Yeop Chagi",
+        "Huryeo Chagi Dollyeo Chagi",
+        "Geodeup Dollyeo Chagi, Ttwieo 360° Dwi Huryeo Chagi",
+        "Geodeup Yeop Chagi, Ttwieo Dwi Chagi",
+        "(360°) Dolgae Chagi ou Dwidora Ttwieo Dollyeo Chagi",
+        "Dwidora Ttwieo Naeryeo Chagi",
+        "Dwidora Ttwieo Ap Chagi"
+    ]
+}

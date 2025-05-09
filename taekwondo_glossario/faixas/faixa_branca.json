@@ -1,0 +1,23 @@
+{
+    "cor": "Branca",
+    "nome": "10 GUB",
+    "tecnicas_braco": [
+        "Narani Seogi Dujumeok Momtong Jireugi",
+        "Narani Seogi Momtong Jireugi",
+        "Apgubi Momtong Jireugi",
+        "Apgubi Naeryeo Makgi",
+        "Apgubi Ollyego Makgi",
+        "Apgubi Eotgeoreo Naeryeo Makgi",
+        "Apgubi Eotgeoreo Ollyeo Makgi",
+        "Apgubi Eolgul Jireugi"
+    ],
+    "tecnicas_chute": [
+        "Dwitbal Ap Chagi",
+        "Dwitbal An Chagi",
+        "Dwitbal Bakkat Chagi",
+        "Dwitbal Dollyeo Chagi",
+        "Dwitbal Yeop Chagi",
+        "Dwitbal Naeryeo Chagi",
+        "Dwitbal Biteureo Chagi"
+    ]
+}

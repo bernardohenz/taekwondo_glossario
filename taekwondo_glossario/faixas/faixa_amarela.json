@@ -1,0 +1,25 @@
+{
+    "cor": "Amarela",
+    "nome": "8 GUB",
+    "tecnicas_braco": [
+        "Dwitgubi Sonnal Momtong Bakkat Makgi",
+        "Dwitgubi Sonnal Geodeureo Momtong Bakkat Makgi",
+        "Dwitgubi Sonnal Geodeureo Naeryeo Makgi",
+        "Dwitgubi Geodeureo Naeryeo Makgi",
+        "Dwitgubi Geodeureo Momtong Bakkat Makgi",
+        "Apgubi Pyeon-jumeok Jireugi",
+        "Apgubi Dollyeo Jireugi",
+        "Apgubi Sewo Jireugi"
+    ],
+    "tecnicas_chute": [
+        "Balbucheo (Jasumbal) Ap Chagi",
+        "Balbucheo Dollyeo Chagi",
+        "Balbucheo Naeryeo Chagi",
+        "Balbucheo Yeop Chagi",
+        "Balbucheo Huryeo Chagi",
+        "Balbucheo Biteureo Chagi",
+        "Momdora Yeop Chagi",
+        "Momdora Huryeo Chagi",
+        "Momdora Bakkat Chagi"
+    ]
+}

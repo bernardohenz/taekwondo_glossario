@@ -1,0 +1,22 @@
+{
+    "cor": "Cinza",
+    "nome": "9 GUB",
+    "tecnicas_braco": [
+        "Apgubi Bakkat Palmok Momtong An Makgi",
+        "Apgubi Bakkat Palmok Momtong Bakkat Makgi",
+        "Apgubi Anpalmok Momtong Bakkat Makgi",
+        "Apgubi Sonnal An Chigi",
+        "Apgubi Sonnal Bakkat Chigi",
+        "Apgubi Pyeonsonkkeut Eopeo Jjireugi",
+        "Apgubi Pyeonsonkkeut Sewo Jjireugi"
+    ],
+    "tecnicas_chute": [
+        "Apbal Ap Chagi",
+        "Apbal Dollyeo Chagi",
+        "Apbal Naeryeo Chagi",
+        "Apbal Yeop Chagi",
+        "Apbal Huryeo Chagi",
+        "Apbal Biteureo Chagi",
+        "Ttwieo Nopi Ap Chagi"
+    ]
+}

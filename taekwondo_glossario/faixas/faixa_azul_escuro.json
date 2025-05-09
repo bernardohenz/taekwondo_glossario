@@ -1,0 +1,28 @@
+{
+    "cor": "Azul Escuro",
+    "nome": "3 GUB",
+    "tecnicas_braco": [
+        "Apgubi Gawi Makgi",
+        "Dwitgubi (Palmok) Oesanteul Makgi",
+        "Dwitgubi Pyeonson Oesanteul Makgi",
+        "Beom Seogi Geodeureo Batangson (Montong) An Makgi Geodeureo Deung-Jumeok Ap Chigi",
+        "Apgubi Montong Hecheo Makgi Mureup Ollyeo Chigi Dwit-Kkoa Seogi Dujumeok Jeocheo Jireugi",
+        "Juchum Seogi Santeul Makgi",
+        "Juchum Seogi Hecheo Santeul Makgi",
+        "Juchum Seogi Pyeonson Santeul Makgi"
+    ],
+    "tecnicas_chute": [
+        "Ttwieo Geodeup Ap Chagi",
+        "Ttwieo Geodeup Dollyeo Chagi",
+        "Ttwieo Geodeup Yeop Chagi",
+        "Ttwieo Huryeo Chagi Dollyeo Chagi",
+        "Ttwieo Apbal Ap Chagi",
+        "Ttwieo Apbal Dollyeo Chagi",
+        "Ttwieo Apbal Naeryeo Chagi",
+        "Ttwieo Apbal Yeop Chagi",
+        "Ttwieo Apbal Biteureo Chagi",
+        "Ttwieo Apbal Huryeo Chagi",
+        "Ttwieo Dwi Chagi",
+        "Ttwieo Dwi Huryeo Chagi"
+    ]
+}

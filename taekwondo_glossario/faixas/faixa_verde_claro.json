@@ -1,0 +1,28 @@
+{
+    "cor": "Verde Claro",
+    "nome": "6 GUB",
+    "tecnicas_braco": [
+        "Apgubi Jepipum Sonnal An Chigi",
+        "Apgubi Geodeureo Sewo Jireugi",
+        "Apgubi Deungjumeok Ap Chigi",
+        "Apgubi Deungjumeok Bakkat Chigi",
+        "Apgubi Mejumeok An Chigi",
+        "Apgubi Mejumeok Bakkat Chigi",
+        "Apgubi Mejumeok Naeryeo Chigi",
+        "Dwitgubi Danggyeo Jireugi",
+        "Dwitgubi"
+    ],
+    "tecnicas_chute": [
+        "Ttwieo Mulleo Dwitbal Ap Chagi",
+        "Ttwieo Mulleo Dwitbal Dollyeo Chagi",
+        "Ttwieo Mulleo Dwitbal Naeryeo Chagi",
+        "Ttwieo Mulleo Dwitbal Yeop Chagi",
+        "Ttwieo Mulleo",
+        "Ttwieo Mulleo",
+        "Dwichuk Ap Chagi",
+        "Baldeung Ap Chagi",
+        "Apchuk Ap Chagi",
+        "Baldeung Dollyeo Chagi",
+        "Apchuk Dollyeo Chagi"
+    ]
+}
